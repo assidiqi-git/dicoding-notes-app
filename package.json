@@ -1,14 +1,17 @@
 {
   "name": "notes-app-back-end",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/assidiqi-git/dicoding-notes-app.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -17,3 +20,4 @@
   "homepage": "https://github.com/assidiqi-git/dicoding-notes-app#readme",
   "description": ""
 }
+
